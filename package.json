@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "test_express_01",
+  "version": "1.0.0",
+  "description": "git checkout -b test_01",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelhpp/Test_express_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelhpp/Test_express_01/issues"
+  },
+  "homepage": "https://github.com/abelhpp/Test_express_01#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
